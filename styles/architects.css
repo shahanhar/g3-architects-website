@@ -131,6 +131,27 @@ main > section{
     color: #727272;
     padding: 0 0 24px;
 }
+.features{
+    gap: 146px;
+}
+.feature-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 21px;
+}
+.feature-card .feature-card-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /* padding: 30px; */
+    color: #131313;
+}
+.feature-card{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
 
 .facts-container{
     display: grid;
